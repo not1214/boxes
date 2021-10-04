@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.boxes {
+  display: flex;
+  width: 600px;
+  justify-content: center;
+  background-color: yellow;
+  margin: 0 auto;
+}
+.boxes1 {
+  width: 150px;
+  height: 400px;
+  background-color: orange;
+}
+.boxes2 {
+  width: 250px;
+  height: 400px;
+  background-color: red;
+}
